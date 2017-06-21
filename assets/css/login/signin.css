@@ -1,0 +1,21 @@
+
+.form-signin {
+  width: 250px;
+  margin: 50px auto;
+}
+
+.form-signin h1 {
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.form-signin input {
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+
+.form-signin a {
+  cursor: pointer;
+}

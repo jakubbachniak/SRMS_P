@@ -1,0 +1,20 @@
+.nav__user-info {
+  margin: 0px;
+  padding: 2%;
+  background: #eee;
+}
+
+.nav__bar {
+  float: left;
+  width: 15%;
+  background: #eee;
+  margin: 0;
+}
+
+.nav__item {
+  cursor: pointer;
+}
+
+body {
+	padding-bottom: 70px;
+}
